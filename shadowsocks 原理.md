@@ -2,6 +2,7 @@
 
 ### shadowsocks
 　　最近在学习 Go 语言，学完之后手痒痒的，忍不住就想用它来做些东西。shadowsocks 是一个我觉得蛮好的 [Kata](http://codekata.com/)，一直很想自己实现看看，现在趁着这个机会也一并做了。
+
 　　要实现 shadowsocks 就得先了解它的原理。我在网上找了些文章看了看，其实还是很简单的。shadowsocks 的工作原理用图像表示出来就是这个样子<sup>[1](http://www.cnblogs.com/foreverfree/p/3771531.html)</sup>
 
         PC －－> local client －－> remote server －－> website
